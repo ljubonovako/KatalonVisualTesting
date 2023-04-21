@@ -1,0 +1,4 @@
+1
+00:00:00,530 --> 00:00:00,712
+1. runFeatureFile("Include/features/MAR-2 RESUMEN ERROR2.feature")
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Prueba4-XRay
+Description: </description>
+   <name>MAR-4 Prueba4-XRay</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10020&quot;:[{&quot;id&quot;:1,&quot;name&quot;:&quot;Tablero Sprint 1&quot;,&quot;state&quot;:&quot;active&quot;,&quot;boardId&quot;:1,&quot;goal&quot;:&quot;&quot;,&quot;startDate&quot;:&quot;2023-04-04T20:12:50.634Z&quot;,&quot;endDate&quot;:&quot;2023-04-18T20:12:46.000Z&quot;}],&quot;customfield_10016&quot;:{&quot;value&quot;:&quot;1.0&quot;},&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;El enlace principal solo está disponible para los usuarios de Jira Premium.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0000n:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://marcelosimon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://marcelosimon.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;Tareas por hacer&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://marcelosimon.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;MAR&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;Marcelo1&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Prueba4-XRay&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;msimon@ecosistemas.com.ar&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Marcelo Simon&quot;,&quot;self&quot;:&quot;https://marcelosimon.atlassian.net/rest/api/2/user?accountId\u003d6425bc12af3b93d8ecf4cd46&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;msimon@ecosistemas.com.ar&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Marcelo Simon&quot;,&quot;self&quot;:&quot;https://marcelosimon.atlassian.net/rest/api/2/user?accountId\u003d6425bc12af3b93d8ecf4cd46&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://marcelosimon.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://marcelosimon.atlassian.net/rest/api/2/issue/MAR-4/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://marcelosimon.atlassian.net/rest/api/2/issue/10003&quot;,&quot;key&quot;:&quot;MAR-4&quot;,&quot;id&quot;:10003}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>94c1fd68-b267-4209-81f2-35c47b0df066</testCaseGuid>
+</TestCaseEntity>

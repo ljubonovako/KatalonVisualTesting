@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+JiraIntegracion,,,,2023-04-21 16:12:43,2023-04-21 16:12:55,"12,217s",PASSED
+,,,,,,,
+Test Cases/JiraIntegracion/MAR-1 Error de cambio de fecha en Workflow,,"Summary: Error de cambio de fecha en Workflow
+Description: Al momento de modificar la fecha límite en una oportunidad de la plataforma, esta no impacta en la base de datos.",jira-integration,2023-04-21 16:12:43,2023-04-21 16:12:47,"3,876s",PASSED
+"runFeatureFile(""Include/features/MAR-1 Error de cambio de fecha en Workflow.feature"")",,,,2023-04-21 16:12:44,2023-04-21 16:12:45,"0,991s",PASSED
+Video,,,,2023-04-21 16:12:47,2023-04-21 16:12:47,"0,001s",PASSED
+,,,,,,,
+Test Cases/JiraIntegracion/MAR-2 RESUMEN ERROR2,,"Summary: RESUMEN ERROR2
+Description: Descripción Ejemplo2",jira-integration,2023-04-21 16:12:47,2023-04-21 16:12:50,"2,783s",PASSED
+"runFeatureFile(""Include/features/MAR-2 RESUMEN ERROR2.feature"")",,,,2023-04-21 16:12:48,2023-04-21 16:12:48,"0,181s",PASSED
+Video,,,,2023-04-21 16:12:50,2023-04-21 16:12:50,"0,001s",PASSED
+,,,,,,,
+Test Cases/JiraIntegracion/MAR-3 Prueba3-Xray,,"Summary: Prueba3-Xray
+Description: ",jira-integration,2023-04-21 16:12:50,2023-04-21 16:12:53,"2,522s",PASSED
+"runFeatureFile(""Include/features/MAR-3 Prueba3-Xray.feature"")",,,,2023-04-21 16:12:50,2023-04-21 16:12:51,"0,151s",PASSED
+Video,,,,2023-04-21 16:12:53,2023-04-21 16:12:53,"0,002s",PASSED
+,,,,,,,
+Test Cases/JiraIntegracion/MAR-4 Prueba4-XRay,,"Summary: Prueba4-XRay
+Description: ",jira-integration,2023-04-21 16:12:53,2023-04-21 16:12:55,"2,590s",PASSED
+"runFeatureFile(""Include/features/MAR-4 Prueba4-XRay.feature"")",,,,2023-04-21 16:12:53,2023-04-21 16:12:53,"0,152s",PASSED
+Video,,,,2023-04-21 16:12:55,2023-04-21 16:12:55,"0,001s",PASSED
